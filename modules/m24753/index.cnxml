@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Conditions for Access to and Use of Datasets</title>
+<metadata>
+  <md:content-id>m24753</md:content-id><md:title>Conditions for Access to and Use of Datasets</md:title>
+  <md:abstract>Discusses issues with access to and usage of datasets caused by data protection regulation.</md:abstract>
+  <md:uuid>9cffbd78-4f25-4fb4-9c38-0989d1be37d4</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m20184/latest/" strength="3">Access Regulations for Datasets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <para id="delete_me">A number of researchers commented on the legal and ethical issues in relation to conditions applied for the access and use data and on various ways in which these might inhibit the research process. In many fields, the sharing of data is subject to policies, which are designed to protect confidentiality and IPR (e.g., where commercial collaborators are involved). In some cases, these policies were seen as being too restrictive. In some cases raised by respondents, licensing policies are still in their formative stages, limiting the ability to share data. This posed a problem for medical researchers in particular: “W
+
+<quote id="eip-id1165035176898">"have spent endless hours, essentially one person full time on a big collaborative project negotiating these issues [...] the fact that there is no national policy has cost us [...]" (researcher)</quote> 
+  </para><section id="eip-796"><title>Enablers</title><para id="eip-481">
+One of the solutions suggested was to move the computation to the data: 
+
+<quote id="eip-id3059299">"you could use other people’s data but not necessarily download it, its licence agreement kind of allowed it. And then you could run your model regardless [...] you could just get the results from the model and that sort of thing so there was a lot of discussions on how to deal with that as well." (researcher)</quote>
+</para></section>
+</content>
+
+</document>

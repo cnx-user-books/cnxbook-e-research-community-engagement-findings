@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="new" cnxml-version="0.7" module-id="new">
+
+  <title>Understanding of Distributed Computing Principles</title>
+
+  <content>
+    <para id="p1">Researchers are often not aware of the potential of distributed systems or of the issues
+      involved in developing and using them. This means that they find it difficult to make sense of the
+      e-Infrastructure services or to related them to their own work and come up with possible ways of using them. While
+      training material exists that provides instructions for the use of advanced ICT systems, there is a lack of
+      material that teaches the underlying principles of e-Research and helps researchers to engage creatively and
+      critically with these technologies.</para>
+
+      <para id="eip-335"><quote id="eip-id49974377">"...grid computing ... is an under utilised resource. I think there probably are barriers to
+        people understanding how they could use it, what they could do with it, and seeing it as a true alternative to
+        maybe poorly managed desktop processing or using under resourced local computers but I’d imagine that there’s a,
+        there’s a lack of understanding of the technical context" (information services professional) </quote></para>
+      <para id="eip-1"><quote id="eip-id26473245">"They probably wouldn’t understand the impact it would have the way access it and what they
+        would do with it. But they’d probably believe that because they can do what they’re doing now that it’s okay.
+        But it’d be similar to somebody who sits and writes out fifteen letters in Word to fifteen people that are all
+        the same and types them all out. But the person next to them puts the names and addresses into an excel
+        spreadsheet and merges a letter from word. You both get the same result but the one has done it in about a tenth
+        of the time but the other person doesn’t think there’s anything wrong with what they’ve done. They’ve used their
+        own skills they’ve done the job it works but if you’re not aware of the alternatives." (information systems
+        professional) </quote></para>
+      <para id="p2"><quote id="eip-id23222646">"We provide training material but it’s more based on the technical use of products rather
+        then the researchers requirements for the product, and as many people know if you throw a data set at
+        some package like SPSS it will give you an awful lot of information whether it’s what you wanted and
+        whether you know what you do with it is another matter. (information systems professional)</quote></para>
+
+    <section id="eip-705"><title>Enablers</title><list id="eip-320">
+        <item>Embedding of education and training on distributed systems would enable young researchers to start
+          developing the knowledge and skills required to effectively utilise e-Infrastructures.</item>
+        <item>A textbook introduction to distributed systems for researchers would enable the teaching of distributed
+          computing principles and e-Research skills. Funded by the UK's JISC, an effort is currently underway to
+          produce a core introductory text under the title <link document="col10677" version="latest">Research in a
+            Connected World</link>.</item>
+      </list>
+    </section>
+  </content>
+
+</document>

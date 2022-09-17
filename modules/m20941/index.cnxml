@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Understanding of Distributed Systems by IT Services</title>
+<metadata>
+  <md:content-id>m20941</md:content-id><md:title>Understanding of Distributed Systems by IT Services</md:title>
+  <md:abstract>Discusses the need for IT service staff to understand distributed systems in order to facilitate the uptake of e-Infrastructure services by researchers.</md:abstract>
+  <md:uuid>d8bd8db9-75a5-4eec-b430-88bfab2c51f8</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">IT service staff often lack understanding of distributed systems that would be necessary to effectively facilitate the uptake of e-Infrastructure services by researchers. 
+  </para><example id="eip-279"><para id="eip-280"><quote id="eip-id13801284">"maybe [there is] a lack of understanding from the technicians that there is actually a requirement and again the idea that you know I could run a piece of analysis that takes three days. If it was on the grid it would take ten minutes [...]. Who can [...] tell a researcher actually you can do it better and I don’t think many University IT departments even would appreciate how we do that. Even dealing with the business computing systems when we write a piece of code it’s difficult to predict how long you think it will take. So if you don’t understand the nature of high performance and what it will give you then it’s difficult for you to promote it or be aware of its benefits.” (information service professional)</quote>
+</para>
+</example><section id="eip-761"><title>Enablers</title><list id="eip-id6295423">
+  <item>Education and training courses for IT service staff would enable them to better facilitate the uptake of e-Infrastructure services by researchers.</item>
+</list></section>
+</content>
+
+</document>

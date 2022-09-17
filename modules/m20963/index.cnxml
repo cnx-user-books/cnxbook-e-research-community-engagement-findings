@@ -1,0 +1,52 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="new" cnxml-version="0.7" module-id="new">
+    <title>Awareness of Services</title>
+    <content>
+        <para id="p1">Researchers are often not aware of services available locally, regionally or nationally. In general, there seems to be a lack of systematic introduction to the services and the training available, which results in a lack of awareness as well as a lack of understanding of how services and methods can facilitate research and what different options exist. Some respondents from information services have suggested that there is an emphasis on basic desktop computing support caused by the wide uptake of desktop computing and that this may have led to a lack of emphasis on applications and advanced research tools.
+
+<quote id="q3">
+“maybe now [information services] need to get back and think about helping people with what it is they want to use computers for.” 
+</quote></para>
+<para id="eip-921">Researchers are often working with systems they know without becoming aware of the existence of other systems or recognising alternatives.
+
+<quote id="q5">What I tend to do is go straight to the web of science and you never really know what is going on to the rest of the site and I don't know what other things are available" (researcher)</quote> 
+
+Even when they take an interest in what services might be available, there are not necessarily easy ways for doing this as services are provided by different institutions, making it difficult to find out about their existence and their relevance.
+
+<quote id="q6">"I guess the big barrier is actually just finding out about what’s available" (researcher)</quote>
+
+<quote id="q8">"I think the uptake of certain services like [...] the British library offer secure electronic delivery of documents which I think a number of researchers either haven’t used, or weren’t aware of, despite our best efforts to publicise this" (information systems professional)</quote>
+
+<quote id="q7">I mean in our organisation generally people don’t know who JISC are and what they do [...] I know that some of the roadshows that have been happening have been addressing that" (researcher)</quote>
+</para><para id="p3"> 
+The fragmentation of researchers into small groups can add to the problem of awareness, especially when groups work in isolation. This is a problem that can be found quite regularly in some discipline areas.
+<quote id="q1">"I’d imagine there might be an issue with awareness of what is available both locally and nationally and possibly regionally. I’d imagine that people because they work in small departments and in small groups which won’t appear a particular [institution] trait would tend to work with what they know, and may not be aware of just communications or larger issues. You may find two research centres pretty close to each other with a completely different solution to the same problem and unaware of it." (information services professional) </quote></para>
+
+        <para id="eip-950">Support and outreach activities varied significantly between different kinds of institutions and between different disciplines. Awareness of services provided within an institution is systematically reported to be higher than that of equivalent services provided elsewhere even if those have a national remit.</para><para id="eip-436">Researchers appear to find out about e-Infrastructure services through events such as the UK e-Science All Hands Meeting, through colleagues or workshops. We might conclude that the network of social relations of people already involved in using e-Infrastructure services is a key enabler of uptake.</para><section id="s1">
+            <title>Enablers</title>
+            <para id="eip-640">Researchers become aware of the existence of e-Infrastructure services mainly through personal contacts and through the examples of others using them in their work. As a consequence, the following interventions can help to address the problem of awareness:</para><list id="l1"><item>Respondents have called for service providers to visit institutions, making use of staff development events. Roadshows such as the <link url="http://roadshows.jiscinvolve.org/">series of events funded by the UK's JISC</link>, booths at research conferences as well as other dissemination activities can help to raise awareness. However, they are relatively expensive interventions that do not scale well. </item>
+<item> Embedding of information about e-Infrastructure services in instituional resources such as information services websites and catalogues. </item>
+<item> Embedding of education on distributed systems and e-Infrastructure services in research education allows awareness to be raised amongst coming generations of researchers. 
+<quote id="eip-id1163819305656">
+"some of the OMII people have been helping us run the little short courses, so two three days courses on e Science or Life Sciences and these are actual workflows for Life Science and Medicine and that sort of stuff, and they’re incredibly useful just to some people like PhD students and post-docs." (researcher)
+</quote>
+Clearly, such routine arrangements would be of immense value in other areas but they rely on having a critical mass both on the demand and the supply side. Another opportunity that has perhaps not been exploited to a large enough extent is to link e-Research with existing ICT training programmes and with doctoral training centres.
+</item>
+                <item> Case studies, roadmaps, examplars and success stories, e.g., in the form of briefing papers,
+                    short articles or video clips can help to raise awareness not only of the existence of services but
+                    also of the ways in which they can be combined and used. 
+                        <quote id="p2">I think what would be useful particularly would be [...] information about developments in the sector or information on let’s say case studies or exemplars where something has been identified as being a good practice possibly like the, the JISC intranet service where they have these sort of case studies and exemplars of how you go about introducing this to your institution. There’s something where people can actually have an easy access point something that’s quite readable but allows them to dig further. </quote>
+
+                        <quote id="p4">Well I think the ideal would be to produce some kind of whether it’s a roadmap or a
+                            guideline. But some kind of simple short document or resource on the web that just explains
+                            the context of the resources that are available. I do think the idea of you know exemplars,
+                            worked examples would be very helpful. But they’d have to be seen as being relevant for
+                            people to have an interest in them.</quote>
+</item>
+            </list><para id="eip-511">Another important enabler is 'boundary spanning', where researchers move between their own discipline and another one, which may expose them to technologies and new ways of doing things:
+<quote id="q11">
+“before I was at [my current institution], I was at an engineering department at [other institution] and so I was kind of aware of a lot of these things that we are talking about – Access Grid, e-Science.” 
+</quote>
+The respondent recounted how they kept in touch with the e-Science programme from its early days even when switching institution and discipline area, for example through attending conferences. They used their experiences to come up with ways of applying e-Infrastructures in new contexts: <quote id="q12">"[even] before the funding programme for e-Science had gone out I was aware of that, that it was happening and I thought 'oh, that is something we should look at for Arts and Humanities', so when the opportunity came for us to do something using e-Science technologies, I kind of hassled the research computing people [at my institution] to tell me about it."</quote> </para>
+        </section>
+    </content>
+</document>

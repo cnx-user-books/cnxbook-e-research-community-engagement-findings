@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Authorisation</title>
+<metadata>
+  <md:content-id>m24708</md:content-id><md:title>Authorisation</md:title>
+  <md:abstract>Discusses issues with authorisation in e-Infrastructures.</md:abstract>
+  <md:uuid>9551f038-990e-4e03-97e5-2bfd1e844831</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-id1161937">Authorisation provides the definitions of what resources a researcher can actually access once they are authenticated (i.e. their identity is established). </para>
+
+<para id="fs-id4103591">
+In a grid environment, the possession of a certificate does not normally equate to gaining access to a protected resource. The division between authentication and authorisation is unusual from a user's point of view as it differs from the familiar model of gaining access to a system by obtaining a password for it. While in the long run mechanisms such as certificates or single sign-on systems provide benefits, they often require an initial effort that is not immediately rewarded by gaining access to a resource. 
+</para>
+<para id="fs-id1458027">
+Several issues were mentioned concerning the need for registration in order to access services, the lack of standardised rules and systems to access services and the lack of group access to services for teaching purposes: 
+
+<quote id="eip-id1165320179494">"I know there has been a barrier for me and also for a lot of users which is the requirement that you register before you can download anything from the [service] and […] a lot of people just give up before they download stuff." (researcher)</quote></para>
+</content>
+
+</document>

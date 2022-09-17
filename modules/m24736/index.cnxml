@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Data Quality and Usability</title>
+<metadata>
+  <md:content-id>m24736</md:content-id><md:title>Data Quality and Usability</md:title>
+  <md:abstract>Discusses issues with data quality and usability in e-Research.</md:abstract>
+  <md:uuid>834baab8-03c5-4f76-90b8-8f45ecfcaf84</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Most kinds of automated data manipulation and analysis require data to be of good quality, regular, well-defined and well-described. Very often, though, data in the Arts and Humanities, the Social Sciences and in Medicine (e.g., hospital records) is highly irregular, lacks adequate metadata and is of varying quality. Consequently, automated processing cannot be applied without further effort, workarounds or methodological compromises. For example, one researcher said: 
+
+<quote id="eip-id1170372847723">"[our project] kind of died a death because the data which was available wasn’t good enough to use any of the tools that social scientists [use] to look at the data, to manipulate it because the nature of the data is that it is fuzzy, it is not scientific data. [...] that is on hold until we can get better data."</quote></para><para id="eip-67">Data that is made available for research is often anonymised, for example, by removing, restricting or aggregating variables, which makes it less useful for research. A social researcher remarked: 
+
+<quote id="eip-id1172305629066">"in my view some of the survey data is unnecessarily reduced in its detail, sometimes I can fully understand why [...], sometimes I don't think it's necessary." (researcher)</quote> </para>
+</content>
+
+</document>

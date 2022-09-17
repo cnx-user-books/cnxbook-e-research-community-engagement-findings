@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Trust in Distributed Systems</title>
+<metadata>
+  <md:content-id>m24720</md:content-id><md:title>Trust in Distributed Systems</md:title>
+  <md:abstract>Discusses the issue of trust in distributed systems, especially relating to data security.</md:abstract>
+  <md:uuid>bb26b5c4-041d-4d92-b850-e0dd117a8ea6</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">The flipside of practical issues with authentication and authorisation is the lack of trust in the security of distributed computing systems that is often observed: 
+
+<quote id="eip-id1169707384546">"other projects (not necessarily medical ones, but also engineering ones) where the organisations involved saw the Grid as [a] great looking solution but didn’t want their data to leave their network [...] it has happened before where companies involved didn’t want to go beyond some toy examples, despite the project being able to solve a lot grid related problems."</quote>
+
+The lack of strong assurances about security and confidentiality in general e-Infrastructures for research means that research with sensitive data often has to be carried out in secure environments ('data enclaves'): 
+
+<quote id="eip-id1169707127158">"if we want to link individual level data and link things like census data and council registries then we need to have names and addresses."</quote> 
+
+To date there are no generic mechanisms and organisational arrangements that make work with sensitive data possible at a reasonable cost while complying with data protection legislation and relevant regulatory regimes.</para>
+
+<section id="eip-340"><title>Enablers</title><para id="eip-633">
+Practical arrangements can sometimes be made that allow some processing to be carried out outside these secure settings, e.g., through the use of artificial identifiers (or pseudonyms): 
+
+<quote id="eip-id1169707127087">"have you heard of pseudo-anonymisation where you create an ID from a name and address, for example, and then those pseudo-anonymised IDs can be [...] kept in a very secretive file."</quote>
+
+</para></section>
+</content>
+
+</document>

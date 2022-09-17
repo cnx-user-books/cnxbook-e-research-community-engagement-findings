@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Heterogeneous Data Formats</title>
+<metadata>
+  <md:content-id>m24734</md:content-id><md:title>Heterogeneous Data Formats</md:title>
+  <md:abstract>Discusses issues with the existence of heterogeneous data formats in e-Research that can hinder data sharing and collaboration.</md:abstract>
+  <md:uuid>c136e0df-30d3-4ac6-9ccb-df63c62d4ba5</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">The existence of heterogeneous data formats can cause problems both for researchers and for service providers. A social scientist respondent remarked: 
+<quote id="eip-id6010868">"it’s getting the stuff in a format that you actually know what to do with it." (researcher)</quote>
+
+Another respondent lamented the lack of 
+
+<quote id="eip-id4499635">“common data formats so that you don’t have to know a hundred data formats [...] there is a need for core data services which serve fairly raw data and also value added services [on] top of that, that package up the data in a way which could be more valuable for certain clients [...] you just get the data that you need in a format that you expect it." (researcher)</quote> 
+
+A member of information services discussed the problems of providing support for researchers working with very different datasets: 
+
+<quote id="eip-id2952951">"I suppose the problem is that it's a complicated area, different people have data which is structured differently, and I suppose we’re grappling with whether you can give generic advice or if it's got to be discipline specific or if it's got to be indeed project specific." (information services staff)</quote></para>
+</content>
+
+</document>

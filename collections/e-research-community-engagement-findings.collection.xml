@@ -1,0 +1,544 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Alex Voss ,Marzieh Asgari-Targhi">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10673</md:content-id>
+    <md:title>e-Research Community Engagement Findings</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>824d3435-39f5-46d9-b4a4-a680a538e7ef</md:uuid>
+<md:slug>e-research-community-engagement-findings</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Training, Education and Outreach</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Understanding Distributed Systems</md:title>
+          <col:content>
+            <col:module document="m20940"/>
+            <col:module document="m20941"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Understanding the Potential of e-Research</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Domain-Specific Material and Events</md:title>
+          <col:content>
+            <col:module document="m24628"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Quality of Training Material</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Early Engagement and Outreach</md:title>
+          <col:content>
+            <col:module document="m20963"/>
+            <col:module document="m24045"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>User-Designer Relations and Requirements</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Understanding Research Practice</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Understanding Available Options</md:title>
+          <col:content>
+            <col:module document="m24636"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Hybrid Knowledge</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Social Organisation</md:title>
+          <col:content>
+            <col:module document="m20971"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Understanding Infrastructure</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Priorities</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Conflicting Research Agendas and Commitments</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Reward Structures</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Software Engineering Practice</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Collaboration</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Finding Collaborators</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Data Sharing</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Coordination</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Communication</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Size of Collaborations</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Geographical Distribution</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Communities and Ad-Hoc Collaboration</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Collaboration Readiness</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Accountability</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Mediation</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Motivation</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Trust</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Policy and Funding</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Research Assessment</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Data Curation and Sharing</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Models of Innovation</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Measuring Impact</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Priorities</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Political Influences</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:module document="m21217"/>
+        <col:module document="m20964"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Organisation of Disciplines</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Epistemic Traditions</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Career Structures</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Collaboration</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Publication</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Research Programmes</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Multidisciplinarity</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Silo-ed Communities</md:title>
+          <col:content>
+            <col:module document="m20968"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Individuals</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Resistance to Change</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Uncertainty and Fear</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Career Choices</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Organisational Issues</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Rate of Change</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Relationships</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Financial</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Provisions for Curation</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Labour Market</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Support</md:title>
+          <col:content>
+            <col:module document="m24634"/>
+            <col:module document="m24635"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Access to Services</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:module document="m20967"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethical and Legal Issues</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Data Protection</md:title>
+          <col:content>
+            <col:module document="m24753"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Software Licensing</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Protection of Research Subjects</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Intellectual Property Rights</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Project Management</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Methodology</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Managing Consortia</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Managing Expectations</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Presentation / Public Engagement</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Success Stories</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Use Cases</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Paths to Adoption</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Crossing Boundaries</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Identity Management</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>VO Management</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Communities</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Collaboration with Partners Outside Academia</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Infrastructures</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Middleware Maturity</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Heterogeniety</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Capacity</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Support</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Operating Environment</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Role of Computing Services</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Security Restrictions</md:title>
+          <col:content>
+            <col:module document="m24689"/>
+            <col:module document="m24690"/>
+            <col:module document="m24708"/>
+            <col:module document="m24720"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Digital Divide</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Dependability</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Rate of Change</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Ease of Access</md:title>
+          <col:content>
+            <col:module document="m20185"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Scale</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Applications</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>License Management</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Availability</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cost of Implementation</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Common Platforms</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Domain Standards</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Quality</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Usability</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Scoping / Functionality</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Compatibility</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Standardisation and Alignment</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Reverse Salients</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Lock-In</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Adoption</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Compliance</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Certification</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Timeliness</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Quality</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Evolution</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:module document="m21218"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>State of the Art</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Algorithms</md:title>
+          <col:content>
+            <col:module document="m20981"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Managing Distributed Systems</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Software Engineering</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Digital Resources</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Discovery</md:title>
+          <col:content>
+            <col:module document="m24711"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Metadata</md:title>
+          <col:content>
+            <col:module document="m24733"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Curation</md:title>
+          <col:content>
+            <col:module document="m24758"/>
+            <col:module document="m24765"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Sustainability</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Quality</md:title>
+          <col:content>
+            <col:module document="m24736"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Access</md:title>
+          <col:content>
+            <col:module document="m20184"/>
+            <col:module document="m24734"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Semantics</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

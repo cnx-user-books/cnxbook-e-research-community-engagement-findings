@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Metadata, Standards and Semantics</title>
+<metadata>
+  <md:content-id>m24733</md:content-id><md:title>Metadata, Standards and Semantics</md:title>
+  <md:abstract>Discusses issues with metadata, standards and semantics affecting e-Research use of data.</md:abstract>
+  <md:uuid>321652e7-e596-42c4-a884-f952f6ce120f</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Access to datasets is often hindered by a lack of agreement within research communities on data and metadata standards: 
+<quote id="eip-id1167539840203">
+"people do not use controlled vocabularies, and ontology, that also causes difficulties sharing data, because meanings of the terms used [...] are different from individual to individual or even the same individual on different trials, they may use the same word to mean different things. That was the biggest problem we identified." (researcher)
+</quote></para><para id="eip-587">There are often problem associated with defining an appropriate scope and level of detail. These kinds of problems also often play out in discipline specific ways:
+<quote id="eip-id4222311">"in terms of dealing with relatively complex data and relatively complex analytical techniques, at least complex to the perspective of social scientists, there is this basic tension between describing things clearly and from an introductory level and having enough space to go into the more details, detailed output." (researcher)</quote></para><section id="eip-27"><title>Enablers</title><para id="eip-615">Disciplinary initiatives are required to for the development of common agreed vocabularies and ontologies. Developing these is often a long-term project that requires the establishment suitable structures spanning institutional boundaries and defined by common interests of researchers working in a particular research area.
+
+<quote id="eip-id7553899">
+"[The] solution [...] was the development of common data element and the use of agreed controlled vocabularies. That is something that’s done by some research communities, for
+instance, gene expression research community formed a society, the MGM society
+to agree what meta-data to collect [...] the US National Cancer Institute
+has developed a source that developing to be as comprehensible as possible in anything to do with cancer research [...] So I have been involved in forming an international society to deal with anti-body therapy again to try and develop data standards and models for use in describing research data can be shared effectively, which is a much more complex thing because there are multiple parameters [...] to deal with." (researcher)
+</quote></para></section>
+</content>
+
+</document>

@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Data Discovery</title>
+<metadata>
+  <md:content-id>m24711</md:content-id><md:title>Data Discovery</md:title>
+  <md:abstract>Discusses the problem of data discovery in e-Research.</md:abstract>
+  <md:uuid>6ee3f04b-0c22-4485-96ff-0f58ba61a42b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">In the idealised research process, the data collection phase marks the beginning of the data lifecycle. For many researchers, however, data collection is complemented or even substituted by the discovery phase where a search is conducted to see if relevant datasets already exist. For example, repositories such as the UK Data Archive, Mimas and EDINA provide a vast range of datasets to the social science research community. Respondents confirmed that these services are perceived as being very valuable but that they also feel the discovery process is not always effective or reliable. In a number of cases, it was the quality of metadata that was a key concern:
+
+<quote id="eip-id1165311447252">"it is quite difficult to find all the data that exist [...] There is metadata there to be sure but you cannot query it in a way we want, that would facilitate the research, because it’s a laborious part of the research which is not that exciting. So a better metadata and better ways of searching the metadata is what’s needed there." (researcher)</quote>
+
+
+  </para>
+</content>
+
+</document>

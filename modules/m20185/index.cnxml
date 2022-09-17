@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Availability of Access Grid Nodes and Overheads in Arranging Meetings</title>
+<metadata>
+  <md:content-id>m20185</md:content-id><md:title>Availability of Access Grid Nodes and Overheads in Arranging Meetings</md:title>
+  <md:abstract>Discusses the issue of availability of access grid nodes and the overheads involved in a arranging meetings.</md:abstract>
+  <md:uuid>f4f42caf-e60d-4467-871f-443901886146</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-54">Running effective Access Grid Meetings requires access to properly maintained Access Grid nodes. The most effective way of using the Access Grid is through room-based nodes, especially when more than one person is joining the meeting from a site or when a larger number of participants are taking part overall. However, the best maintained room-based nodes are often also the most heavily used ones, limiting access to the Access Grid. In addition, running a successful meeting requires some expertise in managing a session but institutions often struggle to make support arrangements. As a consequence, even when nodes are available, usage can be limited by the lack of local support.</para><para id="eip-89">As a consequence, organising Access Grid sessions can be difficult as this involves securing access to a number of different nodes for participants in different locations. Arranging a meeting requires the coordination of these technical and organisational resources as well as the coordination of participants. </para><example id="eip-762"><title>Lack of availability</title><para id="eip-161"><quote id="eip-161-1" display="block">
+"I would love to be able to use AGN from my PC with a webcam the same as in the lab if possible. One of the big barriers to collaboration is organising meetings and the bigger the group the more difficult it gets to organise a meeting." (researcher)
+</quote>
+</para>
+</example><example id="eip-3"><title>Lack of local support</title><para id="eip-707">"they won't let us use the node if there's not someone on site trained to drive it was the bottom line, they weren't in the situation for quite some time to be able to provide someone to drive it, so it was a bit of a catch twenty two for us. I think the node here, there was an attempt to try and make it pay for itself or make it generate money, and people stopped using it and therefore the service was very sketchy but we were still quite reliant on it." (researcher)
+</para>
+</example><example id="eip-601"><title>Effective access determined by lowest common denominator</title><para id="eip-7">"we also use Access Grid only with those that we know there is a very good Access Grid support, so it’s wonderful for our collaboration with [other university] and with [other university], it works brilliantly for our collaboration with [other university], but all of
+those centres have very good support. [Other university] isn’t using it anymore, they have dropped it, so we are not using it with [them] anymore." (researcher)
+</para>
+</example><section id="eip-448"><title>Enablers</title><list id="eip-828"><item>It is possible to install a small Access Grid node on an ordinary desktop computer with a camera, speakers and microphone. <link url="http://www.iocom.com">IOCOM</link> offer a desktop version of their Access Grid software and the <link url="http://www.accessgrid.org/">Access Grid Toolkit</link> provides a free alternative.</item>
+<item>Researchers at the University of Manchester a building a <link url="http://www.rcs.manchester.ac.uk/research/PAG">Portlet Access Grid</link>, that allows Access Grid sessions to be initiated from a web browser.</item>
+<item>The <link url="http://www.jvcs.ja.net/cgi-bin/grid/welcome.cgi">Access Grid Booking System</link> provided by JANET in the UK provides a way to book Access Grid nodes and to schedule meetings. However, it does not cover all cases, e.g., rooms may need to be booked locally or may have other constraints imposed on them.</item></list><para id="eip-541">
+
+</para></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>

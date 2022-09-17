@@ -1,0 +1,24 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Relationship between e-Science and HPC</title>
+<metadata>
+  <md:content-id>m20968</md:content-id><md:title>Relationship between e-Science and HPC</md:title>
+  <md:abstract>Discusses the relationship between e-Science and HPC communities and the impact that differences in culture have for the adoption of e-Infrastructure services for research.</md:abstract>
+  <md:uuid>c311afcd-2daf-4717-8c55-1b901922986b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">There is only a limited overlap between communities involved in e-Science and in HPC, limiting the knowledge transfer and collaboration. Furthermore, the ways of accessing resources differs, where grid resources are becoming easier to access (both in terms of gaining access and in terms of usability), whereas the ways of accessing top-end HPC resources remains unchanged.
+
+There may be a vicious circle at work where it is currently not worthwhile for HPC service providers to grid-enable their resources because of a lack of immediate demand and, on the other side, a lack of accessibility of resources. At the same time, the highly regulated nature of top-end resources means that the number of users is going to be comparatively small, so the more scalable and easier to use mechanisms being developed in the e-Science community are not needed as urgently.</para><example id="eip-354"><para id="eip-1">"I think that the HPC and the e-Science Communities are pretty fractured at the moment with only a relatively small number, I mean a very small number of individuals actually crossing from one to the other or having a foot in both camps and that the HPC Communities are largely happy with the current access methods to the facilities and not really making much of a call for some of the tools and techniques for access that have been pioneered and developed in the  e-Science Community. [...] So I think certainly on the computational side it really comes down very firmly to the free for all type culture that exists in the e-Science side of things and the highly regulated, highly selective for the top end HPC" (service provider)
+</para>
+</example>
+<example id="eip-824"><para id="eip-540">
+I’m not entirely sure, I mean this is an issue that we have struggled with over the last few years because while there are one or two literally one or two users who have asked for common access methods in essentially things like the NGS software stack on [large HPC resources]. [...] it costs us as a Service Provider quite a lot of effort to put this up, to maintain it and uptake is very low so [...] we don’t really want to put a lot of effort into something that’s not being used by users.
+</para>
+</example><para id="eip-318">It is not clear that there is a problem with access mechanisms for HPC resources for existing users as they tend to have the necessary expertise and as they tend to use a single machine at a time. However, there are users who need access to different types of resources for different purposes and need them to work in conjunction with each other to solve a large-scale overall problem. It is here that the issue of how HPC resources are accessed can become an issue.</para><section id="eip-437"><title>Enablers</title><list id="eip-862">
+<item>Changes in funding policy could drive an alignment between the grid and HPC sectors. The US <link url="http://www.teragrid.org">TeraGrid</link> might provide an example for this.</item>
+</list></section>
+</content>
+
+</document>

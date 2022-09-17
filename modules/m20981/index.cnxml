@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Parallelisation of Code</title>
+<metadata>
+  <md:content-id>m20981</md:content-id><md:title>Parallelisation of Code</md:title>
+  <md:abstract>Discusses the need to improve the effectiveness of parallel codes to increase adoption of e-Infrastructure services for research.</md:abstract>
+  <md:uuid>007402c4-1259-407a-9a06-0704a37093e2</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Developing correct and efficient parallel code for research applications remains a challenging task that is being exacerbated by the increase in potential parallelism supported by modern computer architectures. The emergence of multi-core and multi-threaded CPUs means this has become an issue even in applications running on commodity hardware. The problem is even more pronounced in cluster and HPC systems.</para><example id="eip-300"><para id="eip-195">
+  <quote id="q1">
+  "we’ve sat on the back of Moore’s Law for the last forty years and sort of expected [that] processors would get twice as fast every 18 months or so and that’s simply stopping. The approach of going down the multi-core route means that if you’re going to solve the computational problems of a decade’s time you’re not going to be able to do it on 100 or 1000 processors you’re going to be looking at 10,000 or 100,000 processors and frankly if you look at the code-base they don’t scale so the numerical tools for example that we have today need a thorough overhaul and that’s an enormous task. You know if I look at [a large-scale HPC service] alone I mean we’ve got some 20 codes on [it] in general purpose use in the chemistry area alone so I think there’s a real challenge there and it’s not just for the UK but how to move the code base forward to have algorithms that really meet 21st Century needs." (service provider)
+  </quote>
+</para>
+</example><section id="eip-552"><title>Enablers</title><para id="eip-948">Collaborations between HPC experts and researchers as well as key enablers such as mathematicians can help to develop new computational codes that scale better to modern architectures. Where possible, these should be factored into reusable libraries that can be taken up across a range of disciplines but it may well be that the best way to parallelise code is application specific.</para><para id="eip-591">
+<quote id="q2">
+[We have a programme to] develop a set of numerical techniques targeted key application areas that will be designed to scale and then ways in which we can guide the compilers actually to get better performance out of these new codes [...].  More generally than that we’re engaged in specific research projects looking at specific codes or specific sets of codes for key research areas to try to solve the scaling problem and develop, you know,  new techniques and the challenge actually of course is that the new techniques that we have to develop are radically different in some cases from the ones that we’ve had for the past 20 years because of the need to not simply look at one narrow slice of a problem but you need to look at the problem in their own [right] so if you’re designing an aircraft wing, in the past we’ve split it up in a way that you’d have one set of people or one set of codes looking at the structural integrity of the wing and another set of people and another set of codes looking at the airflow over the wing whereas actually you know that you want to combine them because different airflows could produce different strains on the wing and therefore different issues for structural integrity and so on and so forth so there is a lot more thrust towards inter-disciplinary working that we have to drag together and that just makes the computational task much harder." (service provider) 
+</quote>
+</para></section>
+</content>
+
+</document>

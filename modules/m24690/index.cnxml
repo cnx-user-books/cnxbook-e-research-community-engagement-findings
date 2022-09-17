@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Authentication Mechanisms</title>
+<metadata>
+  <md:content-id>m24690</md:content-id><md:title>Authentication Mechanisms</md:title>
+  <md:abstract>Discusses issues with authentication mechanisms</md:abstract>
+  <md:uuid>e0a8d530-0564-4354-8f59-263df9662f4b</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-id1166167501250">Researchers complained about the need of using different passwords for different services. Clearly, some unified form of authentication is required. Athens is a partial answer to the problem but the sign-up process and the need to remember and periodically renew passwords make it less than ideal. </para>
+
+<para id="fs-id1166172816293">
+The move towards Shibboleth-based authentication will address many of these issues and efforts are underway to integrate Shibboleth and the UK Access Management Federation with traditional certificate-based security mechanisms. Other models such as community gateways were mentioned but there are significant issues with authorisation and accounting where the resource provider does not know the identity of the requesting user.
+</para>
+
+<para id="fs-id1725609">
+While Shibboleth and the UK Access Management Federation offer a potential solution for many authentication scenarios, they are not without their problems. Respondents from information services raise issues about scalability: 
+
+<quote id="eip-id1165116077022">"at the moment, there is this huge XML file that has to be passed round which is here’s everybody that the UK Access Federation knows about" (information services staff)</quote> 
+
+The respondent also commented that there should be drop-in plug-ins for commonly deployed systems:
+
+<quote id="eip-id1165112366196">"[for example, for] IIS, for Apache and for Tomcat. So that it’s a simple drop in install for an ignorant webmaster, oh I run Apache, right, what do I do to get Shibboleth, well it should be double click on this." (information services staff)</quote></para>
+</content>
+
+</document>

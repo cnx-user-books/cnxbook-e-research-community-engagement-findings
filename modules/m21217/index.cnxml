@@ -1,0 +1,12 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="new" cnxml-version="0.7" module-id="new">
+    <!-- not sure about this one as it relates to the cost of developing rather than using a resource -->
+    <title>Justifying Costs of Resources or Adoption of Services</title>
+    <content>
+        <para id="p1"> Justifying the cost of investing in advanced ICTs can be difficult as the effects are often
+            long-term and indirect. The cost may relate to the provision of resources but also to the costs of adopting
+            services, which can be significant even when the resource is free at the point of use.</para>
+        <example id="ex1">
+            <para id="p2"><quote id="eip-id25026233">High performance computing is expensive, and I think it’s difficult to justify from a research point of view why a large amount of money is needed maybe to perform calculations in one day   rather than five. It may not seem very significant but it’s the cumulative effect. (information systems professional)</quote></para>
+        </example>
+    </content>
+</document>

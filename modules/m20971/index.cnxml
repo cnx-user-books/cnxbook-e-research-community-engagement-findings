@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Managing User-Designer Relations</title>
+<metadata>
+  <md:content-id>m20971</md:content-id><md:title>Managing User-Designer Relations</md:title>
+  <md:abstract>Discusses the issue of managing user-designer relations in e-Research.</md:abstract>
+  <md:uuid>d701546e-b24f-4fa0-85e7-ab65e8f33917</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Managing the relationship between users and designers or service providers can be a challenging task for a number of reasons. The current divisions of labour in ICT development and service provision mean that there is often a gap between the social context in which people work on developing technologies and providing services and the contexts in which these get appropriated and used. The work involved in bridging this gap is increasingly recognised as crucial and ways are being devised for practically tackling the issues involved. </para><para id="eip-245">Unfortunately, much work in e-Science is driven by technological visions and is not sufficiently grounded in the real-world, day-to-day requirements of researchers, as illustrated by this quote:
+<quote id="eip-id6426684">
+My sense is that [the] e-science project in general has been a little bit too focused on building infrastructure and middleware [...] I fear it's been designed and implemented in a vacuum, so the problem I have with a quite bit of e-science projects is that they are built for general problems and maybe they can solve a class of problems but when we really want to use them you end up finding that they are not good enough" (researcher)</quote>
+The same respondent pointed to a general problem in software engineering that is particularly vexing in e-Science, the problem of deciding what specific functions to support and how generic to make a piece of software:
+<quote id="eip-id6323565">
+"what I fear is that the e-science software so far has been too focused on building general infrastructure and maybe they [would be] better off solving, fewer, smaller [...] problems but at least solving them properly. I think they should at least be a lot more proactive with the specific, with a couple of groups, instead of trying to make all scientists happy maybe try and make the hardcore users happy, and maybe work much closer with them, so instead of trying to be a facility for everyone, try and solve some of the more difficult problems first and that will provide them with some very interesting solutions, rather than try to write something so general that everybody should be able to use it but in the end no one will use it." (researcher)
+</quote>
+The choice, of course, who to work closely with and how to scale up to developing software that finds wider application is difficult to make in the abstract and can only be made in the light of experiences gained with specific users and their day-to-day work. </para><para id="eip-727">There are, as yet, no guidelines for the development of e-Science software that are based on sound software engineering practice but take into consideration the specific nature of e-Science. While many projects contain elements of closer user-designer relations, the practice followed can very widely.A range of methods get used at, are employed different times in the design lifecycle and with varying degrees of participation by researchers. Very often, participation is limited to distinct phases of the overall project lifecycle or takes the form of formal participation in project review boards etc. where the impact is likely to be limited.
+</para><section id="eip-365"><title>Enablers</title><list id="eip-970"><item>
+A number of programmes such as the JISC VRE programme or the ENGAGE initiative recognise the importance of real end-user involvement and mandate it as a condition for awards. 
+</item>
+<item>
+A number of mechanisms can be used to provide an environment in which an ongoing dialogue between technology providers, service providers and users can be fostered. These can involve technical elements but often the organisational arrangements and human effort are most crucial.
+<para id="eip-567"><quote id="eip-id13290203">"I mean you know we have a sort of common set of ways of interacting with them you know there’s obviously their wikis and things that they can post questions on we have a help desk that they can phone up or email questions to or visit if they happen to be here and that’s quite responsive but on top of that we have regular user group meetings to, where we’ll take the temperature of what people want, we’ll put proposals out for debate, we have weekly mailing lists where we’ll send round a newsletter to say this is what’s happening you know, what are your views and lastly we will because of this consortium based approach that the groups are in we have a regular programme of going out and visiting the leaders of each of the consortia sort of on an annual basis so someone will go and visit the various PI’s discuss the problems that they’re having, spend a day, two days with them." (service provider)</quote>
+</para>
+</item>
+<item id="i1">
+It is important to recognise that the relationship between service providers and researchers is not necessarily a one-way road. It would be wrong to think that researchers are passive recipients and users of technological innovations and expertise provided to them. Rather, they can actively take part in shaping service provision. As one social scientist put it:
+<quote id="q2">
+"there is sometimes the case that I have downloaded a file and then found out perhaps an error within the data file or lack of priority on a particular variable or a variable missing within the
+data file that’s referred to in the documentation and occasionally I have reported that sort of example to the help desk, and they’ve usually been, well in fact pretty much every time they’ve been
+able to get back and come up with the solution quite rapidly so I find them a very helpful service in that respect."
+</quote>
+Actively encouraging input from service users and dealing with requests and suggestions in a professional manner can help to engage researchers as contributors to the service, giving them responsiveness to their needs and improving service provision for other users. Similarly, such engagement can also give rise to formulations of requirements that can be difficult to capture using other routes. 
+</item>
+<item>
+A close involvement of researchers in the development of e-Science software and services can be achieved through combining technical work with (on-site) support, working with researchers on their immediate problems. Providing 'at elbow support' can provide useful input to systems development. An extreme form of such practices is the 'embedding' of developers into teams of researchers, a practice often found in areas where research problems drive the development of technological solutions and where researchers themselves have sufficient funds to employ technical staff. Some e-Science projects have found it useful to 'embed' their developers into research teams for extended periods to foster a close engagement and collaboration with researchers.
+</item>
+</list></section>
+</content>
+
+</document>
